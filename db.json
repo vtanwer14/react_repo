@@ -1,0 +1,32 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "code": "C1",
+      "name": "ABC",
+      "prof": "xyz",
+      "cred": "4"
+    },
+    {
+      "id": 2,
+      "code": "C2",
+      "name": "DEF",
+      "prof": "jkl",
+      "cred": "4"
+    },
+    {
+      "id": 3,
+      "code": "C3",
+      "name": "GHI",
+      "prof": "mno",
+      "cred": "2"
+    },
+    {
+      "id": 4,
+      "code": "C4",
+      "name": "JKL",
+      "prof": "pqr",
+      "cred": "2"
+    }
+  ]
+}
